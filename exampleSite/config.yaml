@@ -2,7 +2,7 @@ baseURL: https://ryuhugo.netlify.app
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
-theme: cupper-hugo-theme
+theme: ryuhugo
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
