@@ -1,7 +1,7 @@
 +++
 date = 2020-06-19T16:00:00Z
 draft = true
-tags = []
+tags = ["test"]
 title = "Hi This is my new Test from ryu"
 
 +++
