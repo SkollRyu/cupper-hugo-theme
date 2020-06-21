@@ -1,9 +1,10 @@
 ---
-title: "Cupper Typography"
-date: 2019-02-14T15:36:09-06:00
-tags: [hugo, markdown]
----
+title: Cupper Typography
+date: 2019-02-14T15:36:09.000-06:00
+tags:
+- archive
 
+---
 ## Headings
 
 ```
@@ -144,4 +145,4 @@ This
 <html>
 ```
 
-tag is block code. 
+tag is block code.
