@@ -1,0 +1,18 @@
+{{< fileTree >}}
+* Level 1 folder
+    * Level 2 file
+    * Level 2 folder
+        * Level 3 file
+        * Level 3 folder
+            * Level 4 file
+        * Level 3 folder
+            * Level 4 file
+            * Level 4 file
+        * Level 3 file
+    * Level 2 folder
+        * Level 3 file
+        * Level 3 file
+        * Level 3 file
+    * Level 2 file
+* Level 1 file
+{{< /fileTree >}}
