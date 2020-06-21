@@ -12,3 +12,7 @@ title = "How did I make this website ?"
 * Language : Golang
 * CMS : [https://app.forestry.io](https://app.forestry.io "Forestry")
 * Deployed Server : [https://app.netlify.com](https://app.netlify.com "Netlify")
+
+## Installation
+
+[https://www.youtube.com/watch?v=ResipmZmpDU](https://www.youtube.com/watch?v=ResipmZmpDU "https://www.youtube.com/watch?v=ResipmZmpDU")
