@@ -11,3 +11,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- exampleSite/content/post/snippets-test.md
