@@ -15,11 +15,11 @@ title = "How do I make this website ?"
 ## Installation
 
 1. Fork this [theme](https://github.com/zwbetz-gh/cupper-hugo-theme) to your Github account.
-2. Go to [Forestry](https://app.forestry.io) 
+2. Go to [Forestry](https://app.forestry.io)
    1. Choose Hugo.
    2. Choose Github provider.
    3. Choose the repository you forked.
-   4. In Config Path , type : 
+   4. In Config Path , type :
 
       ```html
        exampleSite/config.yaml
@@ -28,7 +28,7 @@ title = "How do I make this website ?"
       Then , Click **Check for Config**
 
       A text **Config file found** should be shown.
-   5.  Click mark as done for all side-alerts.
+   5. Click mark as done for all side-alerts.
 3. Go to [Netilify](https://app.netlify.com)
    1. Choose New Site from git.
    2. Choose the repository you forked.
@@ -39,14 +39,14 @@ title = "How do I make this website ?"
 
    {{< cmd >}}
 
-   baseURL: [https://ryuhugo.netlify.app](https://ryuhugo.netlify.app "https://ryuhugo.netlify.app")
+   baseURL: https://ryuhugo.netlify.app
 
    {{< /cmd >}}
-5.  **Finished !!!!**
+5. **Finished !!!!**
 
 ## Usage
 
-Once you create a new post, It should tell you to make a template. Just make it become 
+Once you create a new post, It should tell you to make a template. Just make it become
 
 * DATE
 * TAGS
