@@ -2,7 +2,7 @@
 date = 2020-06-21T16:00:00Z
 draft = true
 tags = ["Hugo"]
-title = "How did I make this website ?"
+title = "How do I make this website ?"
 
 +++
 ## Set-up
@@ -30,4 +30,19 @@ title = "How did I make this website ?"
 
       A text **Config file found** should be shown
    5.  Click mark as done for all side-alerts
-3. Go to Github
+3. Go to [Netilify](https://app.netlify.com)
+   1. Choose New Site from git
+   2. Choose the repository you forked
+   3. After Deploy, go to Setting and Domain management, and to customize your domain name (E.g: [https://ryuhugo.netlify.app/](https://ryuhugo.netlify.app/ "https://ryuhugo.netlify.app/") )
+4. Go to Github, find the file config.yaml , which should be located in cupper-hugo-theme/exampleSite/config.yaml
+
+   Change the baseurl to your own domain name
+
+   {{< cmd >}}
+
+   baseURL: [https://ryuhugo.netlify.app](https://ryuhugo.netlify.app "https://ryuhugo.netlify.app")
+
+   {{< /cmd >}}
+5.  **Finished !!!!**
+
+## Usage
