@@ -7,12 +7,27 @@ title = "How did I make this website ?"
 +++
 ## Set-up
 
-* Theme : [https://github.com/zwbetz-gh/cupper-hugo-theme](https://github.com/zwbetz-gh/cupper-hugo-theme "Cupper-hugo-theme")
-* Framework : [https://gohugo.io/](https://gohugo.io/ "Hugo")
+* Theme : [Cupper-Hugo-Theme](https://github.com/zwbetz-gh/cupper-hugo-theme)
+* Framework : [Hugo](https://gohugo.io/)
 * Language : Golang
-* CMS : [https://app.forestry.io](https://app.forestry.io "Forestry")
-* Deployed Server : [https://app.netlify.com](https://app.netlify.com "Netlify")
+* CMS : [Forestry](https://app.forestry.io)
+* Deployed Server : [Netilify](https://app.netlify.com)
 
 ## Installation
 
-[https://www.youtube.com/watch?v=ResipmZmpDU](https://www.youtube.com/watch?v=ResipmZmpDU "https://www.youtube.com/watch?v=ResipmZmpDU")
+1. Fork this [theme](https://github.com/zwbetz-gh/cupper-hugo-theme) to your Github account
+2. Go to [Forestry](https://app.forestry.io) 
+   1. Choose Hugo
+   2. Choose Github provider
+   3. Choose the repository you forked
+   4. In Config Path , type : 
+
+      ```html
+       exampleSite/config.yaml
+      ```
+
+      Then , Click **Check for Config**
+
+      A text **Config file found** should be shown
+   5.  Click mark as done for all side-alerts
+3. Go to Github
