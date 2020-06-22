@@ -11,5 +11,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- exampleSite/content/post/how-did-i-make-this-website.md
