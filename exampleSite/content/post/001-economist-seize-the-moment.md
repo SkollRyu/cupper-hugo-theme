@@ -37,3 +37,9 @@ Vocabularies
 27. carpe (vb.) = seize / treasure
 28. prosperity (n.) = state of being successful
 29. precarious (adj. ) = unstable / danger
+
+Phrases
+
+1. scornful of = feeling or expressing contempt or derision
+2. carpe diem = seize the day / people should enjoy the present rather than worrying about the future
+3. take stock of = examine a situation carefully
