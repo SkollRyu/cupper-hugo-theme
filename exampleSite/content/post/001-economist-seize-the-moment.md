@@ -1,6 +1,5 @@
 +++
 date = 2020-06-24T22:05:00Z
-draft = true
 tags = ["Learning English"]
 title = "(001) Economist - Seize the moment"
 
