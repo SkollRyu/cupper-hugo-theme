@@ -13,7 +13,7 @@ title = "Java - Class&Object&Constructor&Method"
 * **Instance variables** − Instance variables are variables **_within a class but outside any method_**. These variables are initialized when the class is instantiated. Instance variables can be **_accessed from inside any method, constructor or blocks of that particular class_**.
 * **Class(Static) variables** − Class variables are variables declared within a class, outside any method, **_with the static keyword_**.
 
-       html
+      html
       
       public class VariableExample{
       
