@@ -21,12 +21,11 @@ title = "Java - Class&Object&Constructor&Method"
         static int data = 30; // static var
         
          public static void main(String args[]){
-            VariableExample obj = new VariableExample();
+              VariableExample obj = new VariableExample();
       
-            System.out.println("Value of instance variable: "+obj.myVariable);
-            System.out.println("Value of static variable: "+VariableExample.data);
+              System.out.println("Value of instance variable: "+obj.myVariable);
+              System.out.println("Value of static variable: "+VariableExample.data);
+           }
          }
 
-  }
-
-x
+### 1.2 Constructor
