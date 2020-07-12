@@ -13,3 +13,4 @@ fields:
   label: title
 pages:
 - exampleSite/content/post/001-economist-seize-the-moment.md
+- exampleSite/content/post/java-class-object-constructor-method.md
